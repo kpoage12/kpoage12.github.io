@@ -4,25 +4,37 @@
     padding-right: 30px;
 }
 #description{
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
     padding-top: 30px;
 }
 #linkdin{
+    vertical-align: middle;
     width: 50px;
 }
 #header{
-    padding:10px;
+    padding-top:10px;
+    background-color: grey;
+    border-radius: 10px;
 }
 #upper{
     padding-left: 20px;
-    background-color: grey;
+}
+#contact{
+    text-align: right;
+    font-size: 20px;
+    padding-right: 30px;
 }
 #lower{
+    border-radius: 10px;
     background-color: antiquewhite;
 }
 #github{
-    width: 100px;
+    vertical-align: middle;
+    width: 50px;
+}
+#body{
+    padding-top: 20px;
 }
 li {
     font-size: 25px;
@@ -38,6 +50,6 @@ a:hover{
 }
 ul {
     list-style-type: none;
-    padding-bottom: 30px;
+    padding: 20px;
     margin: 0;
 }
