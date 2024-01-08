@@ -41,6 +41,7 @@ body {
     padding-top: 20px;
 }
 li {
+    font-family: "Times New Roman";
     font-size: 25px;
     display: inline;
     padding-right: 20px;
